@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MediCore AI - Gestor Hospitalario Inteligente",
+  "description": "Plataforma de gestión clínica asistida por IA para optimizar diagnósticos, reducir tiempos de espera y prevenir errores médicos mediante análisis de historial y triaje inteligente.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
